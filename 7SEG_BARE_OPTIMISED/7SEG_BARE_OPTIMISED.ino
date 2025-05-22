@@ -89,6 +89,7 @@ int main(){
     _delay_ms(500);
     i++;
   }
+   i = 0;
   _delay_ms(500);
 
 }
